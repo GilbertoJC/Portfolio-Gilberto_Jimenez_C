@@ -728,7 +728,7 @@ figure.effect-bubba:hover p {
     width: 30px;
     height: 30px;
     transform: scale(.7);
-    background-image: url(/dream-pulse-master/img/icon/espana.png);
+    background-image: url(../img/icon/espana.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -737,7 +737,7 @@ figure.effect-bubba:hover p {
 
 #dark_container.active .toggle{
     left: 30px;
-    background-image: url(/dream-pulse-master/img/icon/eeuu.png);
+    background-image: url(../img/icon/eeuu.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
